@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "424367359969",
+    "project_id": "fir-app-11a98",
+    "storage_bucket": "fir-app-11a98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424367359969:android:7182c8ba1d87b976cff4a0",
+        "android_client_info": {
+          "package_name": "com.biometric.fch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpDDmuXksXgD4SAJIGmDZA9hYCNPPCQCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
